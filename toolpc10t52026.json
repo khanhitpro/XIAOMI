@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "name": "MyTV",
+      "url": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/MyTV.v.3.52.0_431_2206141108.apk"
+    },
+    {
+      "name": "TV360",
+      "url": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/tv360.2.apk"
+    },
+    {
+      "name": "GetOut",
+      "url": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/getout.apk"
+    },
+    {
+      "name": "BaseAPK",
+      "url": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/base.1.apk"
+    }
+  ]
+}
