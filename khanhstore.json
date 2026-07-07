@@ -16,13 +16,24 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
           ]
-         },
+          },
+        {
+          "name": "Truyền Hình TV",
+          "versionName": "7t7",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/TV-4.00.1.apk",
+          "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg"
+          ]
+        },
         {
           "name": "VIETPLAY XEM VTV",
           "versionName": "29T6",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/vietplay-v2.4.apk",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
